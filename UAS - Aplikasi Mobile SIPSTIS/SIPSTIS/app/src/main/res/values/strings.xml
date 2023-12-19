@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">SIPSTIS</string>
+    <string name="app_name_full">Sistem Informasi Pengadaan Barang dan Jasa Politeknik Statistika STIS</string>
+    <string name="logo_stis">Logo STIS</string>
+    <string name="nama">Nama Lengkap</string>
+    <string name="nip">NIP</string>
+    <string name="email">Email</string>
+    <string name="alamat">Alamat</string>
+    <string name="no_telp">Nomor HP</string>
+    <string name="password">Password</string>
+    <string name="input_password">Masukkan Password..</string>
+    <string name="konfirmasi_password">Konfirmasi Password</string>
+    <string name="masuk">Masuk</string>
+    <string name="daftar">Daftar</string>
+    <string name="belum_punya_akun">Belum punya akun?</string>
+    <string name="sudah_punya_akun">Sudah punya akun?</string>
+    <string name="menu">Menu</string>
+    <string name="profile">Profil</string>
+    <string name="kembali">Kembali</string>
+    <string name="menu_beranda">Beranda</string>
+    <string name="menu_pengaturan">Pengaturan</string>
+    <string name="menu_edit_profil">Ubah Profil</string>
+    <string name="hide_password">Sembunyikan password</string>
+    <string name="show_password">Perlihatkan password</string>
+    <string name="tutup">Tutup</string>
+    <string name="error">Error</string>
+    <string name="sukses">Sukses</string>
+    <string name="berhasil_buat_akun">Akun berhasil dibuat!</string>
+    <string name="semua_field_harus_valid">Anda Harus Mengisi Semua Isian Dengan Benar</string>
+    <string name="invalid_email">Email Tidak Valid</string>
+    <string name="password_mismatch">Password Tidak Cocok</string>
+    <string name="email_atau_password_invalid">Email atau Password Tidak Valid</string>
+    <string name="network_error">Tidak Dapat Terhubung dengan Server</string>
+    <string name="ubah_profil">Ubah Profil</string>
+    <string name="ubah_password">Ubah Password</string>
+    <string name="password_baru">Password Baru</string>
+    <string name="password_lama">Password Lama</string>
+    <string name="berhasil_ubah_profil">Berhasil Mengubah Profil</string>
+    <string name="berhasil_ubah_password">Berhasil Mengubah Password</string>
+    <string name="berhasil_menambah_jenis_masalah">Berhasil menambah jenis masalah</string>
+    <string name="password_lama_salah">Password Lama Salah</string>
+    <string name="ya">Ya</string>
+    <string name="tidak">Tidak</string>
+    <string name="hapus_akun">Hapus Akun</string>
+    <string name="konfirmasi_hapus_akun">Apakah Anda Yakin ingin Menghapus Akun Anda?</string>
+    <string name="berhasil_hapus_akun">Akun Anda Berhasil Dihapus</string>
+    <string name="nama_jenis_masalah">Nama Jenis Masalah</string>
+    <string name="jenis_masalah">Jenis Masalah</string>
+    <string name="hapus_jenis_masalah">Hapus Jenis Masalah</string>
+    <string name="berhasil_hapus_jenis_masalah">Berhasil hapus jenis masalah</string>
+    <string name="cari">Cari</string>
+    <string name="edit_user">Pengaturan pengguna</string>
+    <string name="role_unit">Unit</string>
+
+    <string name="tidak_ada_pengajuan_unit">Tidak Ada Pengajuan. Silahkan Tambah Pengajuan</string>
+    <string name="tidak_ada_pengajuan_pbj">Tidak Ada Pengajuan yang Diproses oleh PBJ</string>
+    <string name="tidak_ada_pengajuan_ppk">Tidak Ada Pengajuan yang Diproses oleh PPK</string>
+    <string name="tidak_ada_pengajuan_kepala_bau">Tidak Ada Pengajuan yang Diproses oleh Kepala BAU</string>
+
+    <string name="role_pbj">PBJ</string>
+    <string name="role_pbj_Lengkap">PBJ (Pejabat Pengadaan Barang dan Jasa)</string>
+    <string name="role_ppk">PPK</string>
+    <string name="role_ppk_Lengkap">PPK (Pejabat Pembuat Komitmen)</string>
+
+    <string name="role_kepala_bau">Kepala BAU</string>
+    <string name="detail">Detail</string>
+    <string name="pilih_tanggal">Pilih Tanggal</string>
+    <string name="tambah_pengajuan">Tambah Pengajuan</string>
+    <string name="nama_pengadaan">Nama Pengadaan</string>
+    <string name="deskripsi_pengadaan">Deskripsi Pengadaan</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="estimasi_harga_satuan">Estimasi Harga Satuan</string>
+    <string name="tanggal_pengadaan">Tanggal Pengadaan</string>
+    <string name="submit">Submit</string>
+
+    <string name="detail_pengajuan">Detail Pengajuan</string>
+    <string name="konfirmasi_pengajuan">Konfirmasi Pengajuan</string>
+    <string name="revisi_pengajuan">Revisi Pengajuan</string>
+    <string name="hapus_pengajuan">Hapus Pengajuan</string>
+    <string name="berhasil_buat_pengajuan">Berhasil Membuat Pengajuan</string>
+
+    <string name="berhasil_revisi_pengajuan">Berhasil Merevisi Pengajuan</string>
+    <string name="berhasil_terima_pengajuan">Berhasil Menyetujui Pengajuan</string>
+    <string name="proses_pengajuan">Pengajuan akan Diproses</string>
+    <string name="proses_selesai">Pengajuan telah Diproses</string>
+    <string name="berhasil_tolak_pengajuan">Berhasil Menolak Pengajuan</string>
+    <string name="berhasil_tolak_revisi_pengajuan">Berhasil Menolak Pengajuan dengan Revisi</string>
+
+    <string name="konfirmasi_hapus_pengajuan">Apakah Anda Yakin Ingin Menghapus Pengajuan Ini?</string>
+    <string name="berhasil_hapus_pengajuan">Berhasil Menghapus Pengajuan</string>
+    <string name="berhasil_konfirmasi_pengajuan">Pengajuan Berhasil Dikonfirmasi</string>
+
+    <string name="logout">Keluar</string>
+</resources>
