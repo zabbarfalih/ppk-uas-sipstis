@@ -8,6 +8,12 @@ Proyek ini merupakan bagian dari Ujian Akhir Semester untuk Mata Kuliah Pemrogra
 
 [**Video Penggunaan Aplikasi SIPSTIS**](https://s.stis.ac.id/VideoUASPPKZabbarAplikasiSIPSTIS)
 
+### Link Video Cadangan
+
+[**Video Penggunaan Aplikasi SIPSTIS**](https://youtu.be/IsMukYuh5ng?si=IOgFEohIhBfWU24Z)
+
+
+
 ### Link Folder
 
 1. [**Web Service**](https://github.com/zabbarfalih/ppk-uas-sipstis/tree/main/UTS%20-%20Web%20Service): Folder ini berisi semua file yang terkait dengan Web Service yang telah dibangun untuk proyek ini.
